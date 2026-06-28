@@ -1,5 +1,5 @@
 
-# 🚀 Pipeline ETL Industriel : SQL to SQL*Loader (Oracle Data Loading)
+# Pipeline ETL Industriel : SQL to SQL*Loader (Oracle Data Loading)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/Oracle-23c%20%7C%20Free-red.svg)](https://www.oracle.com/)
